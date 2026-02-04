@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# 🐉 Beijing Institute of Technology (BIT)
+
+## Computer Science Enrollment
+
+| Course / Project | Description | Technologies / Topics |
+| --- | --- | --- |
+| Big Data Analysis | Data processing and analytics methods | Spark · Data Analytics · Processing Pipelines |
+
 <!--
 **BaldursFrog/BaldursFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
