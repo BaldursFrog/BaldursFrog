@@ -1,4 +1,6 @@
-## Hi there 👋
+# 🎓 Educational Projects
+
+Collection of projects from MIET University, National Research University of Electronic Technology, Beijing Institute of Technology (BIT, China), and educational programs
 
 # 🐉 Beijing Institute of Technology (BIT)
 
