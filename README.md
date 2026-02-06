@@ -8,7 +8,7 @@ Collection of projects from MIET University, National Research University of Ele
 
 | Course / Project | Description | Technologies / Topics |
 | --- | --- | --- |
-| Big Data Analysis | Data processing and analytics methods | Spark · Data Analytics · Processing Pipelines |
+| [Big Data Analysis](https://github.com/BaldursFrog/Big-Data-Analysis)| Data processing and analytics methods | Spark · Data Analytics · Processing Pipelines |
 
 <!--
 **BaldursFrog/BaldursFrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
